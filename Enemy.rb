@@ -5,8 +5,8 @@ class Enemy
   @@name = ''
   @@sprite = 'X'
 #forcing merge conflict
-  def MergeConflict(x,Y)
-    #laldididia
+  def MergeConflict(x,y)
+    #fdsa
   end
   
   def Initialize(x, y)
