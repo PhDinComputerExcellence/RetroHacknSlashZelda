@@ -1,3 +1,4 @@
+#extra useless comment
 class Enemy
   @@hp = 0
   @@name = ''
