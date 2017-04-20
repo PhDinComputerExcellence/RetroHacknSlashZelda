@@ -7,6 +7,8 @@ class Enemy
 #forcing merge conflict
   def MergeConflict(x,y)
     #fdsa
+    @@hp = x
+    @@name = y
   end
   
   def Initialize(x, y)
